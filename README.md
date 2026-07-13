@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Daniel Mensah Dzansi</h1>
-<h3 align="center">Backend & Full-Stack Developer from Ghana 🇬🇭</h3>
+<h3 align="center">Backend Engineer • Building Payment Infrastructure & Open Source from Ghana 🇬🇭</h3>
 
 ---
 
 ### 💻 About Me
 
-* I enjoy building backend systems and real-world applications
-* Interested in distributed systems, networking and infrastructure
-* Exploring systems programming and performance engineering
-* Always learning how software interacts with real environments
+- 🚀 Founder building **ZazaPay**, enabling Bitcoin and stablecoin payments across Africa
+- ⚡ Passionate about backend engineering, distributed systems, and scalable infrastructure
+- 🦀 Exploring Rust, systems programming, networking, and performance engineering
+- 🌍 Building software that solves real-world financial problems
+- 📚 Always learning how software, infrastructure, and distributed systems work together
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://x.com/danieldzansi96" target="_blank">
@@ -28,16 +29,16 @@
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 ### 🧠 Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
 ### ⚙️ Backend & Databases
@@ -46,19 +47,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
-### 🛠 DevOps & Tools
+### ☁️ DevOps & Infrastructure
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
@@ -70,7 +73,24 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/danieldzansi/danieldzansi/output/github-contribution-grid-snake.svg)
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danieldzansi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldzansi&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=danieldzansi&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/danieldzansi/danieldzansi/output/github-contribution-grid-snake.svg)

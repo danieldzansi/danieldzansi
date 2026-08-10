@@ -5,11 +5,11 @@
 
 ### 💻 About Me
 
-- 🚀 Founder building **ZazaPay**, enabling Bitcoin and stablecoin payments across Africa
-- ⚡ Passionate about backend engineering, distributed systems, and scalable infrastructure
-- 🦀 Exploring Rust, systems programming, networking, and performance engineering
-- 🌍 Building software that solves real-world financial problems
-- 📚 Always learning how software, infrastructure, and distributed systems work together
+- Founder building **ZazaPay**, enabling Bitcoin and stablecoin payments across Africa
+- Passionate about backend engineering, distributed systems, and scalable infrastructure
+- Exploring Rust, systems programming, networking, and performance engineering
+- Building software that solves real-world financial problems
+- Always learning how software, infrastructure, and distributed systems work together
 
 ---
 
@@ -29,9 +29,9 @@
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
-### 🧠 Languages
+### Languages
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
@@ -52,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
@@ -74,7 +74,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=danieldzansi&show_icons=true&theme=github_dark&hide_border=true"/>

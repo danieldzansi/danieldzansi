@@ -3,7 +3,7 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 - Founder building **ZazaPay**, enabling Bitcoin and stablecoin payments across Africa
 - Passionate about backend engineering, distributed systems, and scalable infrastructure

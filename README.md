@@ -19,7 +19,7 @@
 <a href="https://x.com/danieldzansi96" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/daniel-dzansi-81bb15327/" target="_blank">
+<a href="linkedin.com/in/daniel-mensah-dzansi-81bb15327/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 <a href="mailto:danieldzansi96@gmail.com">

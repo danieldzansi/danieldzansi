@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Mensah Dzansi</h1>
+<h1 align="center">Hi 👋, I'm Daniel Mensah Dzansi.</h1>
 <h3 align="center">Backend Engineer • Building Payment Infrastructure & Open Source from Ghana</h3>
 
 ---
